@@ -10,6 +10,7 @@ using Utilities;
 //How are you?
 //i'm fine
 //Я тут снова пробую ещё раз!
+//Ну проходим дальше обучалку!
 namespace Controller
 {
     public class BotController
